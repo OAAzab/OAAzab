@@ -1,5 +1,5 @@
 <div class="hero-img-section">
-    <img src="oazabwallpaper.png"  align="right" alt="Coding">
+    <img src="oazabwallpaper.png"  align="right" alt="Coding" height="200px">
 </div>
 
 # Front-End Developer from Egypt!
