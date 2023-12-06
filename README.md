@@ -1,4 +1,6 @@
-## Hello, I'm < Omar Azab />. 👋
+<div class="hero-img-section">
+    <img src="oazabwallpaper.png"  align="right" alt="Coding">
+</div>
 
 # Front-End Developer from Egypt!
 
