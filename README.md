@@ -1,4 +1,4 @@
-# Hello, I'm < Omar Azab />
+# Hello, I'm <strong> < Omar Azab />. </strong>
 
 ## Front-End Developer from Egypt!
 
