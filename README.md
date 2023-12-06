@@ -1,5 +1,5 @@
-## Hello 👋
-I'm < Omar Azab />.
+## Hello, I'm < Omar Azab />. 👋
+
 # Front-End Developer from Egypt!
 
 
