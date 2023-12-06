@@ -1,6 +1,6 @@
-### Hi there 👋
-## I'm < Omar Azab />
-# Front-End Developer from egypt!
+### Hello 👋
+## I'm < Omar Azab />.
+# Front-End Developer from Egypt!
 
 
 I have a strong passion for front-end development and love creating beautiful, interactive user interfaces. I possess an impressive arsenal of skills in HTML, CSS, JavaScript, Bootstrap, Typescript, Next.js and React.js. I also enjoy bringing new website ideas to life in the browser. 
