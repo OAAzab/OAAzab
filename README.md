@@ -1,4 +1,4 @@
-# Hello, I'm < Omar Azab />. 👋
+# <h1 style="text-align: center;">Hello, I'm < Omar Azab />. 👋</h1>
 
 ## Front-End Developer from Egypt! 🌐
 
